@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+config.js
+config.example.js
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Dependencies
+node_modules/
+
+.env
